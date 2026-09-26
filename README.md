@@ -1,15 +1,20 @@
+# ⚡ Urbanease Admin Panel
 
-  # UrbanEase Admin Panel UI
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/Status-Active-success.svg)
+![Author](https://img.shields.io/badge/Author-Suham%20Iqbal-412991)
 
-  This is a code bundle for UrbanEase Admin Panel UI. The original project is available at https://www.figma.com/design/MBnANVSXG9EzgzbHApktfN/UrbanEase-Admin-Panel-UI.
+> **Professional repository developed and maintained by Suham Iqbal Khan.**
 
-  ## Running the code
+This project is part of a broader ecosystem of full-stack applications, AI automation runtimes, and mobile platforms. 
 
-  Run `npm i` to install the dependencies.
+## 🚀 Overview
+**Urbanease Admin Panel** focuses on delivering scalable, production-ready code with an emphasis on clean architecture.
 
-  Run `npm run dev` to start the development server.
+## 🛠️ Highlights
+- **Architecture:** Modular and performance-optimized.
+- **Security:** Standardized secure paradigms (e.g., RBAC, JWT) where applicable.
+- **Code Quality:** Written with maintainability and scale in mind.
 
-  ## Production API
-
-  Set `VITE_API_URL=https://urbanease-backend-suham.onrender.com/api` for production deployments.
-  
+---
+*Engineered by [Suham Iqbal Khan](https://github.com/Suham-Iqbal) | High-Performance Systems.*
